@@ -1,5 +1,8 @@
 _repo: The-Two-Guardiansor-Home-in-This-World_9926
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Yonge, Charlotte M. (Charlotte Mary)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/945
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Mary_Yonge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9926#The-Two-Guardiansor-Home-in-This-World
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
